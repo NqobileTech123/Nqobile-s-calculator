@@ -1,6 +1,6 @@
-#object-oriented-programming-system
+#Nqobile Calculator
 
-Nqobile Calculator
+In object-oriented-programming-system
 A simple console calculator built using C#.
 
 Features
